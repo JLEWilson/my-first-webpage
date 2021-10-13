@@ -1,0 +1,26 @@
+/*Colors grey #46878f, dark blue #332c50, yel #94e344, tan #e2f3e4*/
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #332c50;
+  color: #94e344;
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 17px;
+}
+h1{
+  font-size: 80px;
+  text-align: center;
+  color: #94e344;
+}
+h2{
+  font-size: 30px;
+  color: #46878f;
+}
+h3{
+  font-size: 25px;
+  color: #e2f3e4
+}
+.Description{
+  font-size: 18px;
+  color: #e2f3e4;
+}
