@@ -12,11 +12,11 @@
 
 ## Descrption
 
-_The website shows understanding of the basic components of html, using basic tags as well as a link and the changing of their design using css. The README shows a basic understanding of the Markdown language.
+_The website shows understanding of the basic components of html, using basic tags as well as a link and the changing of their design using css. The README shows a basic understanding of the Markdown language._
 
 ## Setup/Installation Requirements
 
-* _Clone the repository from my github at https://github.com/JLEWilson/my-first-webpage
+* _Clone the repository from my github at https://github.com/JLEWilson/my-first-webpage_
 
 * _Click on either the index.html, my-amazing-cat.html, or the my-first-webpage.html to open them in your browser and view the finished product!_
 
@@ -31,7 +31,7 @@ _The website shows understanding of the basic components of html, using basic ta
 
 ## License
 
-_If you run into any issues feel free to send questions to my email at: Jacobleeeugenewilson@gmail.com
+_If you run into any issues feel free to send questions to my email at: Jacobleeeugenewilson@gmail.com_
 
 Copyright (c) _10/13/2021_ _Jacob Wilson_
 
