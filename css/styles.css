@@ -1,4 +1,8 @@
-/*Colors grey #46878f, dark blue #332c50, yel #94e344, tan #e2f3e4*/
+/*
+
+
+
+*/
 body{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color: #332c50;
@@ -23,4 +27,15 @@ h3{
 .Description{
   font-size: 18px;
   color: #e2f3e4;
+}
+img{
+  max-width: 400px;
+}
+.light-mode{
+  background-color: #ffffff;
+  color: black;
+}
+.dark-mode{
+  background-color: #37474f;
+  color: white;
 }
